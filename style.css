@@ -39,8 +39,17 @@ h1{
     background-color: #3c3b3a;
 }
 
+
 .conteiner2{
-    background-image: url(img/Illustration-header.png);
+    background-image: url(img/Illustration.png);
+    background-position: 150px;
+    background-position-y: 350px;
+    background-position-x: 210px;
+    background-repeat: no-repeat;
+}
+
+.conteiner2{
+
     background-color: rgba(28, 26, 25, 1);
     border: 1px solid rgba(28, 26, 25, 1);
     height: 590px;
@@ -79,7 +88,7 @@ h1{
 
 .text4{
     color: rgba(255, 255, 255, 1);
-    border: 1px solid rgba(28, 26, 25, 1);
+    border: 1px solid rgba(204, 12, 12, 0);
     width: 327px;
     height: 123px;
     font-family: "Poppins", serif;
@@ -92,7 +101,7 @@ h1{
 
 .conteiner3{
 
-    border: 1px solid rgba(28, 26, 25, 1);
+    border: 1px solid rgba(28, 26, 25, 0);
     width: 219px;
     height: 40px;
     margin-top: 25px;
@@ -101,18 +110,20 @@ h1{
 
 .fa-github{
     color: rgba(219, 216, 215, 1);
-    border: 1px solid rgba(28, 26, 25, 1);
-    width: 40px;
+    border: 1px solid rgba(28, 26, 25, 0);
+    cursor: pointer;
     height: 40px;
     border-radius: 0px;
     padding: 8;
     font-size: 30px;
     text-align: center;
+    
 }
 
 .fa-linkedin-in{
     color: rgba(219, 216, 215, 1);
-    border: 1px solid rgba(28, 26, 25, 1);
+    border: 1px solid rgba(28, 26, 25, 0);
+    cursor: pointer;
     width: 40px;
     height: 40px;
     border-radius: 0px;
@@ -123,7 +134,8 @@ h1{
 
 .fa-angellist{
     color: rgba(219, 216, 215, 1);
-    border: 1px solid rgba(28, 26, 25, 1);
+    border: 1px solid rgba(28, 26, 25, 0);
+    cursor: pointer;
     width: 40px;
     height: 40px;
     border-radius: 0px;
@@ -134,7 +146,8 @@ h1{
 
 .fa-x-twitter{
     color: rgba(219, 216, 215, 1);
-    border: 1px solid rgba(28, 26, 25, 1);
+    border: 1px solid rgba(28, 26, 25, 0);
+    cursor: pointer;
     width: 40px;
     height: 40px;
     border-radius: 0px;
@@ -145,7 +158,8 @@ h1{
 
 .fa-medium{
     color: rgba(219, 216, 215, 1);
-    border: 1px solid rgba(28, 26, 25, 1);
+    border: 1px solid rgba(28, 26, 25, 0);
+    cursor: pointer;
     width: 33px;
     height: 40px;
     border-radius: 0px;
