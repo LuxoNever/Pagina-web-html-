@@ -1,8 +1,56 @@
-.material-symbols-outlined{
+.menu_hamburguera{
+    position: relative;
+  
+}
+
+
+.menu-icon{
+    size-adjust: 40%;
     float: right;
-    margin-top: -44px;
-    margin-right: 5%;
+    margin-top: -40px;
+    margin-right: 4%;
     color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+
+.menu2{
+
+    width: 327px;
+    height: 184px;
+    margin-top: 0px;
+    margin-left: 25px;
+
+}
+
+.menu{
+
+    display: none;
+    position: absolute;
+    top: 0px;
+    right: -0.2%;
+    background-color: rgba(111, 108, 107, 1);
+    height: 833px;
+    width: 359px;
+    background-color: #3c3b3a;
+    
+}
+
+
+
+
+.menu a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(111, 108, 107, 1);
+    font-family: "Inter", serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0%;
+    color: rgba(255, 245, 225, 1);
 }
 
 
@@ -20,7 +68,7 @@ h1{
 .text1{
     color: #FFFFFF;
     margin-left: 9px;
-    margin-top: 9px;
+    margin-top: 19px;
     border: 1px solid #3c3b3a;
     text-align: center;
     font-weight: 700;
@@ -33,7 +81,7 @@ h1{
 }
 
 .conteiner{
-    border: 1px solid #3c3b3a;
+    border: 1% solid #3c3b3a;
     width: 100%;
     height: 65px;
     background-color: #3c3b3a;
@@ -117,6 +165,7 @@ h1{
     padding: 8;
     font-size: 30px;
     text-align: center;
+    text-decoration: none;
     
 }
 
@@ -130,6 +179,7 @@ h1{
     padding: 8;
     font-size: 30px;
     text-align: center;
+    text-decoration: none;
 }
 
 .fa-angellist{
@@ -142,6 +192,7 @@ h1{
     padding: 8;
     font-size: 30px;
     text-align: center;
+    text-decoration: none;
 }
 
 .fa-x-twitter{
@@ -154,6 +205,7 @@ h1{
     padding: 8;
     font-size: 30px;
     text-align: center;
+    text-decoration: none;
 }
 
 .fa-medium{
@@ -166,6 +218,7 @@ h1{
     padding: 8;
     font-size: 30px;
     text-align: center;
+    text-decoration: none;
 }
 
     
